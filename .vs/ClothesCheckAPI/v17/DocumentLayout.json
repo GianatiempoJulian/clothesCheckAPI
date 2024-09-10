@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\.NET\\ClothesCheckAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB7BB1C-2CD4-460C-B3BB-4F61192B0DF9}|ClothesCheckAPI\\ClothesCheckAPI.csproj|c:\\xampp\\htdocs\\.net\\clothescheckapi\\clothescheckapi\\dtos\\clothedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB7BB1C-2CD4-460C-B3BB-4F61192B0DF9}|ClothesCheckAPI\\ClothesCheckAPI.csproj|solutionrelative:clothescheckapi\\dtos\\clothedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB7BB1C-2CD4-460C-B3BB-4F61192B0DF9}|ClothesCheckAPI\\ClothesCheckAPI.csproj|c:\\xampp\\htdocs\\.net\\clothescheckapi\\clothescheckapi\\controllers\\clothecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB7BB1C-2CD4-460C-B3BB-4F61192B0DF9}|ClothesCheckAPI\\ClothesCheckAPI.csproj|solutionrelative:clothescheckapi\\controllers\\clothecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClotheDTO.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\.NET\\ClothesCheckAPI\\ClothesCheckAPI\\DTOs\\ClotheDTO.cs",
+              "RelativeDocumentMoniker": "ClothesCheckAPI\\DTOs\\ClotheDTO.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\.NET\\ClothesCheckAPI\\ClothesCheckAPI\\DTOs\\ClotheDTO.cs",
+              "RelativeToolTip": "ClothesCheckAPI\\DTOs\\ClotheDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:02:11.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClotheController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\.NET\\ClothesCheckAPI\\ClothesCheckAPI\\Controllers\\ClotheController.cs",
+              "RelativeDocumentMoniker": "ClothesCheckAPI\\Controllers\\ClotheController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\.NET\\ClothesCheckAPI\\ClothesCheckAPI\\Controllers\\ClotheController.cs",
+              "RelativeToolTip": "ClothesCheckAPI\\Controllers\\ClotheController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:01:45.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
